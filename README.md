@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on 🦚 [PeacockTV](https://twitter.com/peacocktv) at [SKY Portugal](https://www.linkedin.com/company/skyportugal/mycompany)
+- 👨‍💻 I’m currently working on 🦚 [PeacockTV](https://twitter.com/peacocktv) at [SKY Portugal](https://www.linkedin.com/company/skyportugal/mycompany)
 - 🌱 I’m currently learning Mandarin Chinese 普通话
 - 💬 Ask me about these topics: Leadership, Stress and Anxiety Management, Engineering Management
-- I'm currently maintaining these blogs: [To a More Humane Leadership](https://www.linkedin.com/newsletters/6878025774285262848/) & [Creative Code by Ricardo Castelhano](https://creativecode.ricardocastelhano.net)
+- ✍️ I'm currently maintaining these blogs: [To a More Humane Leadership](https://www.linkedin.com/newsletters/6878025774285262848/) & [Creative Code by Ricardo Castelhano](https://creativecode.ricardocastelhano.net)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ricardocastelhano/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still dream in code
+- ⚡ Fun fact # 1: I love to teach and present on stage
+- ⚡ Fun fact # 2: I still dream in code
